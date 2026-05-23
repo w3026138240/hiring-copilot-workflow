@@ -1,0 +1,6 @@
+{
+  "name": "Hiring Copilot - Candidate Matching & Score Workflow",
+  "description": "An AI-executed, human-in-the-loop recruiting application that compares candidate resumes to job descriptions, scores alignment, flags strengths and risks, and prepares client submissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
